@@ -1,0 +1,16 @@
+D:\Coding_practice\CoreCSharp\CoreCSharp-Concepts\bin\Debug\net5.0\CoreCSharp-Concepts.exe
+D:\Coding_practice\CoreCSharp\CoreCSharp-Concepts\bin\Debug\net5.0\CoreCSharp-Concepts.deps.json
+D:\Coding_practice\CoreCSharp\CoreCSharp-Concepts\bin\Debug\net5.0\CoreCSharp-Concepts.runtimeconfig.json
+D:\Coding_practice\CoreCSharp\CoreCSharp-Concepts\bin\Debug\net5.0\CoreCSharp-Concepts.runtimeconfig.dev.json
+D:\Coding_practice\CoreCSharp\CoreCSharp-Concepts\bin\Debug\net5.0\CoreCSharp-Concepts.dll
+D:\Coding_practice\CoreCSharp\CoreCSharp-Concepts\bin\Debug\net5.0\ref\CoreCSharp-Concepts.dll
+D:\Coding_practice\CoreCSharp\CoreCSharp-Concepts\bin\Debug\net5.0\CoreCSharp-Concepts.pdb
+D:\Coding_practice\CoreCSharp\CoreCSharp-Concepts\obj\Debug\net5.0\CoreCSharp-Concepts.csprojAssemblyReference.cache
+D:\Coding_practice\CoreCSharp\CoreCSharp-Concepts\obj\Debug\net5.0\CoreCSharp-Concepts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding_practice\CoreCSharp\CoreCSharp-Concepts\obj\Debug\net5.0\CoreCSharp-Concepts.AssemblyInfoInputs.cache
+D:\Coding_practice\CoreCSharp\CoreCSharp-Concepts\obj\Debug\net5.0\CoreCSharp-Concepts.AssemblyInfo.cs
+D:\Coding_practice\CoreCSharp\CoreCSharp-Concepts\obj\Debug\net5.0\CoreCSharp-Concepts.csproj.CoreCompileInputs.cache
+D:\Coding_practice\CoreCSharp\CoreCSharp-Concepts\obj\Debug\net5.0\CoreCSharp-Concepts.dll
+D:\Coding_practice\CoreCSharp\CoreCSharp-Concepts\obj\Debug\net5.0\ref\CoreCSharp-Concepts.dll
+D:\Coding_practice\CoreCSharp\CoreCSharp-Concepts\obj\Debug\net5.0\CoreCSharp-Concepts.pdb
+D:\Coding_practice\CoreCSharp\CoreCSharp-Concepts\obj\Debug\net5.0\CoreCSharp-Concepts.genruntimeconfig.cache
