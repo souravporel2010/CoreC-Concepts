@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2I632BgCk1gVBxpY7YMf1CEZgjGJiWHmsyP9SGRSBhY+AWwjpzteWxaYqlZGk/+Vs/FitS42C+e0TcTf3rJUIg==",
+  "dgSpecHash": "ht3OszCuFHajjPOmQzN9OFVOPC2tplqEQ79fZ/r+E8ODY2uPbptJafUqe2axB864URIaVprbdtYcm4kDoqTveg==",
   "success": true,
-  "projectFilePath": "D:\\Coding_practice\\CoreCSharp\\CoreCSharp-Concepts\\CoreCSharp-Concepts.csproj",
+  "projectFilePath": "/home/rockrules/Codebase/CSharp/CoreCSharp-Concepts/CoreCSharp-Concepts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
